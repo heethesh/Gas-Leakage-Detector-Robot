@@ -8,7 +8,7 @@
 
 /*
 * Team ID:			eYRC-GD#672
-* Author List: 		Heethesh Vhavle, Dheeraj Kamath
+* Author List: 		Heethesh Vhavle
 * Filename: 		eYRC-GD-672.c
 * Theme: 			Gas Leakage Detection
 
