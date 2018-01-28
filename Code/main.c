@@ -4,13 +4,13 @@
 
 /*********************************************************************************************************/
 
-//IMPORTANT NOTE: PLEASE REFER TO ATTACHED JPG FOR PIPELINE AREA AND VALVE NUMBERING USED IN THIS PROGRAM
+// IMPORTANT NOTE: PLEASE REFER TO ATTACHED JPG FOR PIPELINE AREA AND VALVE NUMBERING USED IN THIS PROGRAM
 
 /*
 * Team ID:			eYRC-GD#672
 * Author List: 		Heethesh Vhavle
 * Filename: 		eYRC-GD-672.c
-* Theme: 			Gas Leakage Detection
+* Theme: 			Gas Leakage Detection (eYRC 2015)
 
 * Functions: 		Indicator Functions: buzzer_pin_config(), buzzer_on(), lcd_port_config(), led_pin_config(),
 					buzzer_off(), buzz(), led_red(), led_grn(), led_blu(), led_off()
