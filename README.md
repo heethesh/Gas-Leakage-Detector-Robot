@@ -3,7 +3,7 @@ The theme is modelled based on a factory like scenario consisting of four pipeli
 
 ## Video Demonstration
 
-![eYRC-GD#672 - Gas Leakage Detection Robot Demonstration](https://www.youtube.com/watch?v=imb1wCC3n2g)
+[eYRC-GD#672 - Gas Leakage Detection Robot Demonstration](https://www.youtube.com/watch?v=imb1wCC3n2g)
 
 Team ID: eYRC-GD#672 | Third prize winner at National Level e-Yantra Robotics Competition 2015-16 conducted by e-Yantra, CSE Department, IIT Bombay, sponsored by MHRD, Government of India
 
@@ -27,29 +27,4 @@ Team ID: eYRC-GD#672 | Third prize winner at National Level e-Yantra Robotics Co
 #### Main Flowchart
 ![Main Flowchart](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Main%20Function.png?raw=true)
 
-### Line Follower
-![Line Follower](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Line%20Follower%20Simple.png?raw=true)
-
-### Pipeline Navigation 1
-![Pipeline Navigation 1](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Pipeline%20Navigation-01.png?raw=true)
-
-### Wall Follower
-![Wall Follower](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Wall%20Follower%20Algorithm.png?raw=true)
-
-### Gas Detection
-![Gas Detection](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Gas%20Detection%202.png?raw=true)
-
-### Color Sensing
-![Color Sensing](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Color%20Sensing.png?raw=true)
-
-### Pipeline Navigation 2
-![Pipeline Navigation 2](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Pipeline%20Navigation-02.png?raw=true)
-
-### Search for Black Line
-![Search Line](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Search%20Line.png?raw=true)
-
-### Valve Detection
-![Valve Detection](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Valve%20Detection.png?raw=true)
-
-### Magnet Dropping Mechanism
-![Magnet Dropping Mechanism](https://github.com/heethesh/Gas-Leakage-Detector-Robot/blob/master/images/Dropping%20Mechanism.png?raw=true)
+Click [here](https://github.com/heethesh/Gas-Leakage-Detector-Robot/tree/master/Code) for a more detailed flowchart.
